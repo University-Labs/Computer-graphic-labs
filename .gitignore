@@ -1,3 +1,10 @@
 bin/
 obj/
 x64/
+LightModel/
+ModelChair/
+ModelDoor/
+ModelOfficeChair/
+ModelSofa/
+ModelTable/
+Graphic_l4_Glfw_scene/.vs/
